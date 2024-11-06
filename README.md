@@ -160,4 +160,3 @@ Desenvolvido por **Tiago Braga e Gustavo Soares**.
 ---
 
 **Observação:** Este é um projeto de exemplo para fins de aprendizado e não está otimizado para produção.
-```
